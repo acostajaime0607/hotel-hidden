@@ -1,0 +1,7 @@
+export const LOADING_ROOM = "LOADING_ROOM";
+export const ERROR_ROOM = "ERROR_ROOM";
+
+export const GET_ROOM_LIST = "GET_ROOM_LIST";
+export const CREATE_ROOM_LIST = "CREATE_ROOM_LIST";
+export const UPDATE_ROOM_LIST = "UPDATE_ROOM_LIST";
+export const DELETE_ROOM_LIST = "DELETE_ROOM_LIST";
